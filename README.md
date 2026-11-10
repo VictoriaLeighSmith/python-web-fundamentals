@@ -1,4 +1,4 @@
-# QAP-3-Files---VS
+# python-web-fundamentals
 
 Repo containing both Python and Web Dev QAP 3 assignments:
 
