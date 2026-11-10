@@ -1,4 +1,4 @@
-# python-web-fundamentals
+# Python & Web Development Fundamentals
 
 Repo containing both Python and Web Dev QAP 3 assignments:
 
